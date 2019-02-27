@@ -1,0 +1,17 @@
+.margin-min{
+	margin-left:10px;
+}
+
+.table td{
+	min-width: 35px;
+	padding:8px 10px!important;
+}
+
+.table th{
+	padding:10px 18px!important;
+	border-bottom: 1px solid #3a1919!important;
+}
+
+.table .fa{
+	cursor: pointer;
+}
